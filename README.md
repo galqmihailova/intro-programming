@@ -1,1 +1,1 @@
-# intro-programming
+# intro-programming course
